@@ -1,0 +1,20 @@
+Elif EFE 1 99
+Eren KUCUK 2 100
+Kuaybe EFE 3 45
+Gorkem Cenk ALTIN 4 78
+Hacer EFE 5 38
+Ayse EFE 6 87
+Yusuf Huseyin DENIZ 7 78
+Melike COLDUR 8 67
+Yusuf KURT 9 76
+Buse TOSUNER 10 85
+Elif Su KUCUK 11 20
+Melek KUCUK 12 88
+Cihan Deniz KUCUK 13 30
+Cem ALTIN 14 42
+Osman RONALDO 15 7
+Neymar YILMAZ 16 11
+Burak Bulut 17 48
+Jason DERULO 18 20
+Murat BOZ 19 15
+Demet OZDEMIR 20 87
